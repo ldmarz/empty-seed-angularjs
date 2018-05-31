@@ -15,3 +15,4 @@
 - lodash 4.17
 - webpack 4.10
 - webpack-dev-server 3.1.4
+- style-loader, css-loader
